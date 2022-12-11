@@ -1,4 +1,4 @@
-# Desafio programação - para vaga desenvolvedor
+# Desafio DEV
 
 Por favor leiam este documento do começo ao fim, com muita atenção.
 O intuito deste teste é avaliar seus conhecimentos técnicos em programação.
